@@ -155,10 +155,9 @@ https://xxxx.workers.dev
 ![图片1](https://raw.githubusercontent.com/5d5d5f5f5f/10102/main/04331.png)
 
 ## 注册到托管视频教程 https://www.youtube.com/watch?v=7xi8Yh9csGo
-## 云服务器推荐 
-[点击查看](https://prolxy.com/?i4b51d8)
+## 云服务器推荐 [点击查看](https://prolxy.com/?i4b51d8)
 公网流量
-可用流量： 不限制
+可用流量： 无限流量
 
 
 # 版权说明
